@@ -520,6 +520,7 @@
     SUBDIR += i2c-tools
     SUBDIR += i7z
     SUBDIR += iat
+    SUBDIR += ictree
     SUBDIR += imgurbash2
     SUBDIR += immortal
     SUBDIR += incron
@@ -1428,8 +1429,8 @@
     SUBDIR += u-boot-a13-olinuxino
     SUBDIR += u-boot-a64-olinuxino
     SUBDIR += u-boot-bananapi
-    SUBDIR += u-boot-bananapim2
     SUBDIR += u-boot-bananapi-r2-pro
+    SUBDIR += u-boot-bananapim2
     SUBDIR += u-boot-beaglebone
     SUBDIR += u-boot-bhyve-arm64
     SUBDIR += u-boot-bhyve-riscv

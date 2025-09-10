@@ -490,6 +490,7 @@
     SUBDIR += concurrencpp
     SUBDIR += concurrencykit
     SUBDIR += concurrentqueue
+    SUBDIR += cond-let
     SUBDIR += cons
     SUBDIR += cons-test
     SUBDIR += containers
@@ -4740,6 +4741,8 @@
     SUBDIR += py-csv23
     SUBDIR += py-ctags
     SUBDIR += py-ctypesgen
+    SUBDIR += py-cucumber-expressions
+    SUBDIR += py-cucumber-tag-expressions
     SUBDIR += py-curio
     SUBDIR += py-cursive
     SUBDIR += py-curtsies
@@ -6545,6 +6548,7 @@
     SUBDIR += rubygem-aws-sdk-appstream
     SUBDIR += rubygem-aws-sdk-appsync
     SUBDIR += rubygem-aws-sdk-apptest
+    SUBDIR += rubygem-aws-sdk-arcregionswitch
     SUBDIR += rubygem-aws-sdk-arczonalshift
     SUBDIR += rubygem-aws-sdk-artifact
     SUBDIR += rubygem-aws-sdk-athena
@@ -6557,8 +6561,10 @@
     SUBDIR += rubygem-aws-sdk-backupgateway
     SUBDIR += rubygem-aws-sdk-backupsearch
     SUBDIR += rubygem-aws-sdk-batch
+    SUBDIR += rubygem-aws-sdk-bcmdashboards
     SUBDIR += rubygem-aws-sdk-bcmdataexports
     SUBDIR += rubygem-aws-sdk-bcmpricingcalculator
+    SUBDIR += rubygem-aws-sdk-bcmrecommendedactions
     SUBDIR += rubygem-aws-sdk-bedrock
     SUBDIR += rubygem-aws-sdk-bedrockagent
     SUBDIR += rubygem-aws-sdk-bedrockagentcore
@@ -7463,7 +7469,6 @@
     SUBDIR += rubygem-hashery
     SUBDIR += rubygem-hashie
     SUBDIR += rubygem-hashie-forbidden_attributes
-    SUBDIR += rubygem-hashie4
     SUBDIR += rubygem-health_check
     SUBDIR += rubygem-health_check-rails-gitlab
     SUBDIR += rubygem-health_check-rails70
